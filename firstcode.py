@@ -19,5 +19,5 @@ def smallestMissingPositive(arr):
 
     # If all are in place, smallest missing is n+1
     return n + 1
-print(smallestMissingPositive([3, 4, -1, 1]))     # Output: 2
+print(smallestMissingPositive([3, 4, -1, 1]))     # Output: 2    
 
